@@ -1,0 +1,30 @@
+Number of workers : 4
+Task decomposition strategy : 1
+Reading graph
+Created graph
+
+Vertex-based work partitioning
+thread_id, num_vertices, num_edges, triangle_count, time_taken
+0, 1211892, 42920131, 339204160, 53.317103
+1, 1211892, 15515692, 213398914, 10.785881
+2, 1211892, 7141449, 84872361, 3.353711
+3, 1211895, 3416501, 45558451, 0.987469
+Number of triangles : 683033886
+Number of unique triangles : 227677962
+Partitioning time (in seconds) : 0.00000
+Time taken (in seconds) : 53.31739
+Number of workers : 4
+Task decomposition strategy : 1
+Reading graph
+Created graph
+
+Vertex-based work partitioning
+thread_id, num_vertices, num_edges, triangle_count, time_taken
+0, 6249999, 12650749, 7, 3.918032
+1, 6249999, 12546666, 5, 3.934324
+2, 6249999, 12399926, 6, 3.959172
+3, 6250002, 12402659, 9, 3.751142
+Number of triangles : 27
+Number of unique triangles : 9
+Partitioning time (in seconds) : 0.00000
+Time taken (in seconds) : 3.95950

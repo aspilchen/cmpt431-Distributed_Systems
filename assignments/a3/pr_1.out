@@ -1,0 +1,16 @@
+Using INT
+Number of workers : 4
+Task decomposition strategy : 1
+Iterations : 20
+Reading graph
+Created graph
+
+Vertex-based work partitioning
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, total_time
+0, 24237840, 858402620, 0.007016, 0.000672, 54.749315
+1, 24237840, 310313840, 0.002333, 31.720628, 54.749281
+2, 24237840, 142828980, 0.006105, 43.412299, 54.748959
+3, 24237900, 68330020, 0.005379, 49.339952, 54.748901
+Sum of page rank : 359157876836
+Partitioning time (in seconds) : 0.000000
+Time taken (in seconds) : 54.749566

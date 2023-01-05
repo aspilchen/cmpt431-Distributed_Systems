@@ -1,0 +1,27 @@
+Constructor
+Number of items: 100000
+Number of producers: 5
+Number of consumers: 3
+Queue size: 100000
+Starting Producers
+Starting Consumers
+Joining Producers
+Joining Consumers
+Producer stats
+producer_id, items_produced, value_produced, time_taken
+0, 100000, 4999950000, 0.230507
+1, 100000, 4999950000, 0.230076
+2, 100000, 4999950000, 0.229835
+3, 100000, 4999950000, 0.231284
+4, 100000, 4999950000, 0.230875
+Total produced = 500000
+Total value produced = 24999750000
+Consumer stats
+consumer_id, items_consumed, value_consumed, time_taken
+0, 164890, 8306594120, 0.231225
+1, 164123, 8177032560, 0.231211
+2, 170987, 8516123320, 0.231178
+Total consumed = 500000
+Total value consumed = 24999750000
+Time taken: 0.00200605
+Destructor
